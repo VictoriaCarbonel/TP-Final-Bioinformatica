@@ -1,0 +1,5 @@
+aat_Pseudomonas_extremaustralis	WP_000854789.1	44.498	209	1.84e-63	194	WP_000854789.1 leucyl/phenylalanyl-tRNA--protein transferase [Acinetobacter baumannii]
+lpxH_Pseudomonas_extremaustralis	WP_000221671.1	40.529	227	2.19e-55	175	WP_000221671.1 UDP-2,3-diacylglucosamine diphosphatase [Acinetobacter baumannii]
+rplA_Pseudomonas_extremaustralis	WP_001096694.1	70.222	225	1.13e-116	329	WP_001096694.1 MULTISPECIES: 50S ribosomal protein L1 [Bacteria]
+queF_Pseudomonas_extremaustralis	WP_000110165.1	48.029	279	1.33e-80	241	WP_000110165.1 MULTISPECIES: NADPH-dependent 7-cyano-7-deazaguanine reductase QueF [Acinetobacter]
+rplJ_Pseudomonas_extremaustralis	WP_001196213.1	50.595	168	1.31e-52	162	WP_001196213.1 MULTISPECIES: 50S ribosomal protein L10 [Bacteria]

@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "db_Ab",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Acinetobacter baumannii ATCC 19606",
+  "number-of-letters": 1183662,
+  "number-of-sequences": 3758,
+  "last-updated": "2026-06-27T14:19:00",
+  "number-of-volumes": 1,
+  "bytes-total": 2801393,
+  "bytes-to-cache": 1217601,
+  "files": [
+    "db_Ab.pdb",
+    "db_Ab.phr",
+    "db_Ab.pin",
+    "db_Ab.pot",
+    "db_Ab.psq",
+    "db_Ab.ptf",
+    "db_Ab.pto"
+  ]
+}
